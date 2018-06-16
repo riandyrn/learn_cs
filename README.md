@@ -1,2 +1,3 @@
 # learn_cs
-Repo containing studies for strengthen my own CS concepts using Python 3
+
+Repo containing studies to strengthen my own concepts of CS using Python 3
